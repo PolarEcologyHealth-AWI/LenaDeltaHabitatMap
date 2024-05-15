@@ -1,0 +1,15 @@
+﻿Land Cover Class;Habitat;Description
+0;Moist Equisetum and Shrubs on Floodplain (MESH);Moist-Equisetum and shrub communities including moist sites on the active floodplain with high shrub species
+1;Dry Low Shrub Community (DSH);Dry low shrub communities as occurring on the dry elevated areas (on SAM in the south of the active floodplain). The shrub species are dominated by dwarf willow thickets with moss abundance 
+2;Moist to Wet Sedge Complex (MSWS);This class is dominated by a moist - to wet sedge complex.
+3;Wet Sedge Complex (WS);The wet-sedge complex is based on permanent wet sites with stagnant water in the lowest-lying depressions north of the active floodplain
+4;PC moisture < 50 % (PC50);Polygonal complexes dominated by sedges, mosses and herbs with wet area coverage of up to 50 %. This class occurs on the late-Holocene terrace, and is represented by different polygonal tundra communities on the ice-wedge low-centered polygons.
+5;PC moisture < 20% (PC20);This polygonal complex class is also dominated by sedges, mosses and herbs accompanied by dwarf willows and birches with wet area coverage up to 20 %. This class occurs on drier sites on the polygonal mosaic patterned ground.
+6;Dry Grass to Wet Sedge Complex (GSSH);This class occurs at high disturbance sites and includes dry grass- to wet sedge complexes with low shrub communities. When moving towards the slope and the south cliffs willow, Salix and Equisetum mix in. This class also occurs at other high disturbance sites.
+7;Sparsely Vegetated Areas (SVA);Areas (mainly on lower terrace) with sparse vegetation.
+8;Dry Tussock Tundra (DT);The dry tundra communities represent two vegetation classes. One is dominated by tussock forming Eriophorum and the other by non - tussock dry-herb communities, which are dominated by Dryas. They occur on drained sites and dry areas such as the south-facing rims of thermokarst depressions.
+9;PC moisture < 10 % (PC10);Mainly occurring on the Yedoma-Uplands (3rd Lena Delta terrace, also called Ice complex) with alternating wet and dry areas. These sites on the Pleistocene ice wedge network are drier compared to the polygonal complexes. Vegetation is characterized by wet sedges and mosses, including dwarf shrub species.
+10;Dwarsh Shrub-herb Communities (DSC);
+11;Sand;
+12;Water;
+;;
